@@ -19,7 +19,7 @@ int main()
 		cin >> num;
 	}
 
-	// do while loop5
+	// do while loop
 	int count;
 	cin >> count;
 
